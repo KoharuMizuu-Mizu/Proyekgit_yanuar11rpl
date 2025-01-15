@@ -1,1 +1,1 @@
-# ini adalah proyek git pertama yanuar
+# ini adalah projek git pertama yanuar
